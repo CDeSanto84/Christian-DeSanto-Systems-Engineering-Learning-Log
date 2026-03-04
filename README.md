@@ -29,3 +29,7 @@ Learning deeply. Building consistently. Shipping small wins.
 - Break it  
 - Fix it  
 - Document the process
+
+- ## Learning Logs
+
+Daily progress entries are stored in the `/logs` directory.
