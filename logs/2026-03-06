@@ -1,0 +1,25 @@
+# 2026-03-06
+
+## What I worked on
+- Studied quadratic functions
+- Read Chapter 1 and Chapter 2 of *The Linux Command Line*
+- Practiced Linux navigation commands in terminal:
+  - `pwd`
+  - `ls`
+  - `cd`
+  - `cd ..`
+  - `cd -`
+- Explored `/usr/bin` and started understanding pathnames, working directories, and relative vs absolute paths
+
+## What I learned
+- The shell is the interface between user commands and the operating system
+- `pwd` prints the current working directory
+- `ls` lists directory contents
+- `cd` changes directories
+- Absolute paths begin from `/`
+- Relative paths depend on the current working directory
+- `..` means parent directory
+- `~` means home directory
+
+## Notes
+Today felt productive because I balanced math and Linux fundamentals. I’m starting to understand the filesystem as a tree instead of just memorizing commands.
